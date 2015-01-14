@@ -13,6 +13,8 @@
 		EF3D498E1A65DB590018A7F6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF3D498D1A65DB590018A7F6 /* Images.xcassets */; };
 		EF3D49911A65DB590018A7F6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF3D498F1A65DB590018A7F6 /* LaunchScreen.xib */; };
 		EF3D499D1A65DB590018A7F6 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3D499C1A65DB590018A7F6 /* PostcardTests.swift */; };
+		EF3D49A71A65E5CE0018A7F6 /* sagrada-familia.sq.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF3D49A61A65E5CE0018A7F6 /* sagrada-familia.sq.jpg */; };
+		EF3D49A91A65F0520018A7F6 /* ventura2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF3D49A81A65F0520018A7F6 /* ventura2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		EF3D49961A65DB590018A7F6 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF3D499B1A65DB590018A7F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EF3D499C1A65DB590018A7F6 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		EF3D49A61A65E5CE0018A7F6 /* sagrada-familia.sq.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sagrada-familia.sq.jpg"; sourceTree = "<group>"; };
+		EF3D49A81A65F0520018A7F6 /* ventura2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ventura2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 		EF3D499A1A65DB590018A7F6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EF3D49A81A65F0520018A7F6 /* ventura2.jpg */,
+				EF3D49A61A65E5CE0018A7F6 /* sagrada-familia.sq.jpg */,
 				EF3D499B1A65DB590018A7F6 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				EF3D498C1A65DB590018A7F6 /* Main.storyboard in Resources */,
 				EF3D49911A65DB590018A7F6 /* LaunchScreen.xib in Resources */,
+				EF3D49A71A65E5CE0018A7F6 /* sagrada-familia.sq.jpg in Resources */,
 				EF3D498E1A65DB590018A7F6 /* Images.xcassets in Resources */,
+				EF3D49A91A65F0520018A7F6 /* ventura2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
